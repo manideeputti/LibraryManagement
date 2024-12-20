@@ -7,7 +7,6 @@ This project is a Flask-based Library Management System that allows users to man
 1. **Book Management**:
    - Add a new book.
    - Retrieve details of a specific book by its ID.
-   - Update book information.
    - Delete a book.
    - Search books by title or author.
 
