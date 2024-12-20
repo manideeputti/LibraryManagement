@@ -1,7 +1,7 @@
 # Library Management System
 
 ## Overview
-This project is a Flask-based Library Management System that allows users to manage books and members in a library. The system supports functionalities such as adding, updating, retrieving, and deleting books and members, as well as searching for books by title or author.
+This project is a Flask-based Library Management System that allows users to manage books and members in a library. The system supports functionalities such as adding, retrieving, and deleting books and members, as well as searching for books by title or author.
 
 ## Features
 1. **Book Management**:
